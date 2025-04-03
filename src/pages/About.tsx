@@ -21,7 +21,7 @@ const About = () => {
     },
     {
       title: 'Passion',
-      description: 'We're passionate about web design and bring enthusiasm and creativity to every project.',
+      description: "We're passionate about web design and bring enthusiasm and creativity to every project.",
       icon: <Heart className="w-6 h-6 text-brand-600" />,
     },
   ];

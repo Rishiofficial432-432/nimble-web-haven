@@ -41,7 +41,7 @@ const Services = () => {
     },
     {
       title: 'SEO Optimization',
-      description: 'Strategic optimizations to improve your website's visibility in search engine results.',
+      description: "Strategic optimizations to improve your website's visibility in search engine results.",
       icon: <Search className="w-10 h-10 text-brand-600" />,
       features: [
         'Keyword research and implementation',

@@ -60,7 +60,7 @@ const Contact = () => {
             {[
               {
                 question: 'How long does it take to build a website?',
-                answer: 'The timeline varies depending on the complexity of the project. A simple website might take 2-3 weeks, while more complex projects can take 2-3 months. We'll provide a detailed timeline during our initial consultation.'
+                answer: "The timeline varies depending on the complexity of the project. A simple website might take 2-3 weeks, while more complex projects can take 2-3 months. We'll provide a detailed timeline during our initial consultation."
               },
               {
                 question: 'What is your pricing structure?',
